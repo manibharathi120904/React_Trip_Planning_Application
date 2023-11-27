@@ -1,0 +1,27 @@
+.t1 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+.t2, .t3, .t4 {
+  display: flex;
+  flex-direction: column; 
+  background-color: rgb(210, 251, 210);
+  padding: 50px;
+  box-shadow: 10px 5px 5px rgb(40, 39, 39);
+  border-radius: 15px;
+  margin: 20px; 
+}
+
+.t2 {
+  color: rgb(11, 11, 11);
+}
+
+.t3 {
+  color: rgb(8, 8, 8);
+}
+
+.t4 {
+  color: rgb(11, 11, 11);
+}
