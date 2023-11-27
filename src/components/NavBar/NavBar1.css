@@ -1,0 +1,39 @@
+.six
+{
+  text-align: right;
+  background-color: rgb(96, 96, 96);
+}
+nav {
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  
+  display: flex;
+}
+
+li {
+  
+  margin-right: 120px;
+  font-size: 20px;
+  padding-left:20px;
+
+  
+}
+
+a {
+  text-decoration: none;
+  color:rgb(254, 253, 253);
+  font-weight: bold;
+}
+
+a:hover {
+  color: #59d6ff;
+}
+
+

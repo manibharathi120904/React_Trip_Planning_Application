@@ -1,0 +1,32 @@
+{
+  "tripBooking": [
+    {
+      "name": "Manibharathi N",
+      "email": "manibharathi120904@gmail.com",
+      "phoneNumber": "9952284717",
+      "stayingDate": "2023-11-26",
+      "leavingDate": "2023-11-30",
+      "spotName": "Burj Khalifa",
+      "id": 1
+    }
+  ],
+  "hotelBooking": [
+    {
+      "name": "Manibharathi N",
+      "email": "manibharathi120904@gmail.com",
+      "phoneNumber": "9952284717",
+      "stayingDate": "2023-11-26",
+      "leavingDate": "2023-11-30",
+      "spotName": "Rixos Hotel",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "Manibharathi N",
+      "email": "manibharathi120904@gmail.com",
+      "password": "123",
+      "id": 1
+    }
+  ]
+}
